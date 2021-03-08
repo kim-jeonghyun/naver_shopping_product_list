@@ -16,7 +16,8 @@ It doesn't need to install anything except python3 and some of python libraries.
 
 
 ## Getting Started 
-'$ python3 naver_shopping_scrapping.py'
+'$ python3 naver_shopping_scrapping.py' to scrap product data on www.shopping.naver.com
+'$ python3 shopping_list_data_preparing.py' to preprocess collected data using naver_shopping_scrapping.py
 
 ## Contributing 
 
