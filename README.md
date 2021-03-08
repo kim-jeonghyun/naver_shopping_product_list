@@ -22,7 +22,7 @@ It doesn't need to install anything except python3 and some of python libraries.
 
 Follow the description on CONTRIBUTE.md
 
-## Contributors
+## Collaborators
 Lee Ye-gyeong (https://github.com/leeyk0818)
 Kim Jeong-ah (https://github.com/rmkim7)
 
