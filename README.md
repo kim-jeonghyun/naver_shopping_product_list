@@ -5,7 +5,7 @@
 
 [Naver shopping](https://shopping.naver.com/) is No.1 online shopping platform in South Korea.
 Through this repository you can explore what products are sold and bought in Korea.
-
+Even though code is specifically designed to meal kit products in Food category, you can easily change the url or selectors to fit your needs.
 
 This repository was a part of [SSACxFastCampus Big Data Analyst Training Course](https://ssac.seoul.kr/course/course_view.jsp?id=22228&s_style=gallery&ch=course) ㅔprojects.
 
@@ -15,7 +15,7 @@ This repository was a part of [SSACxFastCampus Big Data Analyst Training Course]
 It doesn't need to install anything except python3 and some of python libraries.
 
 
-##Getting Started
+## Getting Started 
 '$ python3 naver_shopping_scrapping.py'
 
 ## Contributing 
@@ -23,6 +23,8 @@ It doesn't need to install anything except python3 and some of python libraries.
 Follow the description on CONTRIBUTE.md
 
 ## Contributors
+Lee Ye-gyeong (https://github.com/leeyk0818)
+Kim Jeong-ah (https://github.com/rmkim7)
 
 ## License
 
