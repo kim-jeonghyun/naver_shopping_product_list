@@ -7,7 +7,7 @@
 Through this repository you can explore what products are sold and bought in Korea.
 Even though code is specifically designed to meal kit products in Food category, you can easily change the url or selectors to fit your needs.
 
-This repository was a part of [SSACxFastCampus Big Data Analyst Training Course](https://ssac.seoul.kr/course/course_view.jsp?id=22228&s_style=gallery&ch=course) ㅔprojects.
+This repository was a part of [SSACxFastCampus Big Data Analyst Training Course](https://ssac.seoul.kr/course/course_view.jsp?id=22228&s_style=gallery&ch=course) projects.
 
 ## Installation
 
